@@ -1,3 +1,3 @@
 # mycollege-demo
 <br>
-Author: Muhammad Muneez
+Author: Muhammad Muneez madyar
